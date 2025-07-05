@@ -1,4 +1,4 @@
-# Customer Loyalty Organic-Products
+# Customer Loyalty Organic Products
 This project focuses on identifying the key behavioral and demographic factors that influence customer loyalty to organic products in a UK supermarket. Using data from a customer loyalty program, the goal is to uncover which customer characteristics (such as age, affluence, region, and promotion type) are most associated with repeat purchases of organic goods. The analysis follows the CRISP-DM framework and includes data cleaning, transformation, and exploratory analysis. As a data analyst, my role is to extract meaningful insights that can help the supermarket better target organic product promotions, personalize marketing strategies, and allocate resources more effectively. These findings support smarter decisions in loyalty program management, campaign planning, and customer retention
 
 ## Project Overview
